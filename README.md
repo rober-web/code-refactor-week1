@@ -23,7 +23,7 @@ This website was refactored to meet modern accessibility standards, ensuring a b
 
 ## Screenshot
 
-![Website Screenshot](assets/css/01-html-css-git-challenge-demo.png)
+![Website Screenshot](assets/images/01-html-css-git-challenge-demo.png)
 
 ## Deployed Application
 
