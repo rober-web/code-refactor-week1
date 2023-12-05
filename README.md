@@ -15,6 +15,7 @@ This project involves refactoring an existing website for a marketing agency to 
 ## Resources
 
 - [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [Smooth Scrolling](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
 - [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
 
 ## Description

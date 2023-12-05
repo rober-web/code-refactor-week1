@@ -40,6 +40,8 @@ header h1, .article-subtitle, .benefit-subtitle,  footer h2 {
 header {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
     padding: 20px;
     background-color: #2a607c;
     color: #ffffff;
@@ -49,19 +51,6 @@ header {
 
     font-size: 48px;
     width: 20;
-}
-
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
-    background-color: #2a607c;
-    color: #ffffff;
-}
-
-.logo {
-    font-size: 48px;
 }
 
 header h1 .seo {
@@ -97,11 +86,6 @@ nav ul li a {
     font-size: 1.2em;;
 }
 
-nav ul li a:hover {
-    text-decoration: none;
-}
-
-
 /*HERO SECTION*/
 
 .hero {
@@ -129,7 +113,6 @@ nav ul li a:hover {
     margin-left: 20px;
 }
 
-
 /*GROUPED GENERAL ARTICLES*/
 
 .article-box {
@@ -140,7 +123,6 @@ nav ul li a:hover {
     color: #ffffff;
 }
 
-
 .article-box img {
     max-height: 200px;
 }
@@ -150,10 +132,6 @@ nav ul li a:hover {
 .article-subtitle {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-.footer h2 {
-    font-size: 20px;
 }
 
 /*BENEFITS ASIDE*/
@@ -185,11 +163,17 @@ nav ul li a:hover {
 }
 
 /*FOOTER*/
+
 footer {
     padding: 30px;
     clear: both;
     text-align: center;
 }
+
+.footer h2 {
+    font-size: 20px;
+}
+
 
 
 
